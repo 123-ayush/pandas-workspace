@@ -1,0 +1,11 @@
+what we are trying to achieve...
+
+Steps Involved:
+    1. Define the Problem
+    2. Data Collection
+    3. EDA
+    4. Data Cleaning & Pre-processing
+    5. Feature Engineering
+    6. Modeling
+    7. Evaluation
+    8. Deployment
